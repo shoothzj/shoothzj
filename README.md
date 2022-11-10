@@ -2,9 +2,12 @@
 <h3 font-size="20" style="text-align: center">Chinese experienced full stack engineer, also an open source enthusiast.</h3>
 
 - 😄 I am interested in
+  - Linux kernel
+  - OperationSystem
   - Streaming Processing
   - Serverless
   - IoT
+  - Gui Development
 
 - 🔥 I am maintaining these repositories
   - [paas_dashboard_flutter](https://github.com/paashzj/paas_dashboard_flutter)
@@ -26,6 +29,17 @@
   - [amqp-client-examples](https://github.com/Shoothzj/amqp-client-examples)
   - [config-client-java](https://github.com/paashzj/config-client-java)
   - [sql-on-json](https://github.com/Shoothzj/sql-on-json)
+
+- 📺 I created these gui projects for fun
+  - [paas_dashboard_flutter](https://github.com/paashzj/paas_dashboard_flutter)
+  - [kubernetes-dashboard](https://github.com/Shoothzj/kubernetes-dashboard)
+  - [bookkeeper-dashboard](https://github.com/Shoothzj/bookkeeper-dashboard)
+  - [cassandra-dashboard](https://github.com/Shoothzj/cassandra-dashboard)
+  - [etcd-dashboard](https://github.com/Shoothzj/etcd-dashboard)
+  - [minio-dashboard](https://github.com/Shoothzj/minio-dashboard)
+  - [mysql-dashboard](https://github.com/Shoothzj/mysql-dashboard)
+  - [redis-dashboard](https://github.com/Shoothzj/redis-dashboard)
+  - [zookeeper-dashboard](https://github.com/Shoothzj/zookeeper-dashboard)
 
 - 🖐🏻 Ask me about what I maintain and created 👆
 
