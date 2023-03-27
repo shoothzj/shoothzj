@@ -1,6 +1,12 @@
 <h1 style="text-align: center">Hi, I'm ZhangJian He</h1>
 <h3 font-size="20" style="text-align: center">Chinese experienced full stack engineer, also an open source enthusiast.</h3>
 
+- @apache ServiceComb PMC member.
+- @apache Pulsar/Bookkeeper committer.
+- @huaweicloud SpringCloudHuawei maintainer.
+- @volcano-sh
+
+
 - 😄 I am interested in
   - Linux kernel
   - OperationSystem
@@ -10,17 +16,9 @@
   - Protocols
   - Gui Development
 
-- 🔥 I am maintaining these repositories
+- 🔥 I am maintaining these organizations and repositories
   - [paas_dashboard_flutter](https://github.com/paashzj/paas_dashboard_flutter)
   - [json-smart](https://github.com/netplex/json-smart-v2)
-  - [pulsar-pulsar-connector](https://github.com/streamnative/pulsar-io-pulsar-connector)
-  - [pulsar-http-connector](https://github.com/streamnative/pulsar-io-http-connector)
-  - [pulsar-huawei-functiongraph-connector](https://github.com/streamnative/pulsar-io-huawei-function-graph-connector)
-  - [pulsar-huawei-dis-connector](https://github.com/streamnative/pulsar-io-huawei-dis)
-  - [pulsar-huawei-lts-connector](https://github.com/streamnative/pulsar-io-huawei-lts-connector)
-  - [pulsar-huawei-obs-connector](https://github.com/streamnative/pulsar-io-huawei-obs-connector)
-
-- 🐳 I created these organizations and repositories
   - [protocol-laboratory](https://github.com/protocol-laboratory)
   - [pulsar-client-examples](https://github.com/Shoothzj/pulsar-client-examples)
   - [kafka-client-examples](https://github.com/Shoothzj/kafka-client-examples)
