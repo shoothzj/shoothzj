@@ -8,17 +8,20 @@
   - [@apache](https://github.com/apache) Pulsar/Bookkeeper committer
   - [@huaweicloud](https://github.com/huaweicloud) SpringCloudHuawei maintainer
   - [@apolloconfig](https://github.com/apolloconfig) committer
-  - [@volcano-sh](https://github.com/volcano-sh) member
   - [@openGemini](https://github.com/openGemini) member
+  - [@volcano-sh](https://github.com/volcano-sh) member
 
 - 🔥 I am maintaining these organizations and repositories
   - [@protocol-laboratory](https://github.com/protocol-laboratory) owner
-  - [@embedded-middleware](https://github.com/embedded-middleware) owner
   - [json-smart](https://github.com/netplex/json-smart-v2)
 
 - 🛠️ I created these useful github actions
-  - [go-mod-check-action](https://github.com/Shoothzj/go-mod-check-action)
-  - [latest-release-action](https://github.com/Shoothzj/latest-release-action)
+  - [go-mod-check-action](https://github.com/shoothzj/go-mod-check-action) checks if your go.mod and go.sum files are properly updated and optionally prevents indirect dependency updates.
+  - [latest-release-action](https://github.com/shoothzj/latest-release-action)
+  - [host-available-check-action](https://github.com/shoothzj/host-available-check-action)
+  - [setup-ignite-action](https://github.com/shoothzj/setup-opengemini-action)
+  - [setup-opengemini-action](https://github.com/shoothzj/setup-opengemini-action)
+  - [setup-pulsar-action](https://github.com/shoothzj/setup-pulsar-action)
 
 - 🖐🏻 Ask me about what I maintain and created 👆
 
