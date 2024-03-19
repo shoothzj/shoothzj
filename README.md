@@ -3,20 +3,18 @@
 
 - 🖋️ **Blog**: [张俭的博客](https://shoothzj.github.io/) (Chinese)
 
-- 🚀 I have role in
-  - [@apache](https://github.com/apache) ServiceComb PMC member
-  - [@apache](https://github.com/apache) Pulsar/Bookkeeper committer
-  - [@huaweicloud](https://github.com/huaweicloud) SpringCloudHuawei maintainer
-  - [@apolloconfig](https://github.com/apolloconfig) committer
-  - [@openGemini](https://github.com/openGemini) member
-  - [@volcano-sh](https://github.com/volcano-sh) member
-
-- 🔥 I am maintaining these organizations and repositories
+- 🚀 Open Source Contributions
+  - [@apache](https://github.com/apache) [ServiceComb](https://github.com/apache/servicecomb-java-chassis) PMC member
+  - [@apache](https://github.com/apache) [Pulsar](https://github.com/apache/pulsar) committer
+  - [@apache](https://github.com/apache) [Bookkeeper](https://github.com/apache/bookkeeper) committer
+  - [@openGemini](https://github.com/openGemini) maintainer
+  - [@huaweicloud](https://github.com/huaweicloud) [spring-cloud-huawei](https://github.com/huaweicloud/spring-cloud-huawei) maintainer
   - [@protocol-laboratory](https://github.com/protocol-laboratory) owner
-  - [json-smart](https://github.com/netplex/json-smart-v2)
+  - [@apolloconfig](https://github.com/apolloconfig) committer
+  - [json-smart](https://github.com/netplex/json-smart-v2) maintainer
 
 - 🛠️ I created these useful github actions
-  - [go-mod-check-action](https://github.com/shoothzj/go-mod-check-action) checks if your go.mod and go.sum files are properly updated and optionally prevents indirect dependency updates.
+  - [go-mod-check-action](https://github.com/shoothzj/go-mod-check-action) checks if your `go.mod` and `go.sum` files are properly updated and optionally prevents indirect dependency updates.
   - [latest-release-action](https://github.com/shoothzj/latest-release-action)
   - [host-available-check-action](https://github.com/shoothzj/host-available-check-action)
   - [setup-ignite-action](https://github.com/shoothzj/setup-opengemini-action)
