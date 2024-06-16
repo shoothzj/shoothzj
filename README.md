@@ -4,9 +4,9 @@
 - 🖋️ **Blog**: [张俭的博客](https://shoothzj.github.io/) (Chinese)
 
 - 🚀 Open Source Contributions
+  - [@apache](https://github.com/apache) [Bookkeeper](https://github.com/apache/bookkeeper) PMC member
   - [@apache](https://github.com/apache) [ServiceComb](https://github.com/apache/servicecomb-java-chassis) PMC member
   - [@apache](https://github.com/apache) [Pulsar](https://github.com/apache/pulsar) committer
-  - [@apache](https://github.com/apache) [Bookkeeper](https://github.com/apache/bookkeeper) committer
   - [@openGemini](https://github.com/openGemini) maintainer
   - [@huaweicloud](https://github.com/huaweicloud) [spring-cloud-huawei](https://github.com/huaweicloud/spring-cloud-huawei) maintainer
   - [@protocol-laboratory](https://github.com/protocol-laboratory) owner
