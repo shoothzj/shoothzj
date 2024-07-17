@@ -9,7 +9,7 @@
   - [@apache](https://github.com/apache) [Bookkeeper](https://github.com/apache/bookkeeper) PMC member
   - [@apache](https://github.com/apache) [ServiceComb](https://github.com/apache/servicecomb-java-chassis) PMC member
   - [@apache](https://github.com/apache) [Pulsar](https://github.com/apache/pulsar) committer
-  - [@openGemini](https://github.com/openGemini) maintainer
+  - [@cncf](https://github.com/cncf) [@openGemini](https://github.com/openGemini) maintainer
   - [@huaweicloud](https://github.com/huaweicloud) [spring-cloud-huawei](https://github.com/huaweicloud/spring-cloud-huawei) maintainer
   - [@protocol-laboratory](https://github.com/protocol-laboratory) owner
   - [@apolloconfig](https://github.com/apolloconfig) committer
