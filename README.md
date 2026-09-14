@@ -37,13 +37,33 @@ Currently, I work on intelligent data decision platforms at Huawei Cloud.
 - [提升网络协议服务器的定位能力](https://hezhangjian.com/2023/05/30/提升网络协议服务器的定位能力/)
 - [华为云物联网四年配置中心实践](https://hezhangjian.com/2021/04/14/华为云物联网四年配置中心实践/)
 
-## Selected Talks
+## Selected Talks (in Chinese)
 
-- [Community Over Code Asia 2026: 规模化场景下的规约驱动开发（Spec-Driven Development） (Chinese)](https://asia.communityovercode.org/zh/sessions/agenticcoding-1207762.html)
-- [Community Over Code Asia 2026: 用 Apache 技术栈打造类 Palantir 的数据与 AI 平台 (Chinese)](https://asia.communityovercode.org/zh/sessions/dataai-1207761.html)
-- [Community Over Code Asia 2025: 使用 Apache Pulsar 构建高可靠订阅和推送服务：挑战与最佳实践 (Chinese)](https://asia.communityovercode.org/2025/zh/sessions/messaging-890417.html)
-- [HDC 2024: 华为云IoT构建OpenHarmony端云协同开源套件，让设备更智能 (Chinese)](https://bbs.huaweicloud.com/blogs/429803)
-- [Huawei Cloud DTSE Talk 2024: 华为云IoT开源专家实践分享：开源让物联网平台更开放、易用 (Chinese)](https://bbs.huaweicloud.com/live/DTT_live/202405141630.html)
-- [大湾区 Open Source Day 2024: 携手开源社区：华为云IoT的参与实践与经验交流 (Chinese)](https://choss.cn/news/shownews.php?id=30)
-- [ApacheCon Asia 2021: The Journey of Apache Pulsar in Huawei Cloud Internet of Things Platform (Chinese)](https://www.youtube.com/watch?v=2XOIj4-dibI)
-- [Pulsar Summit Asia 2020: Apache Pulsar 在华为云物联网之旅：上线历程与最佳配置 (Chinese)](https://www.bilibili.com/video/BV1fz4y1k7a4)
+### 2026 · Community Over Code Asia
+
+- 规模化场景下的规约驱动开发（Spec-Driven Development） · [Session details](https://asia.communityovercode.org/zh/sessions/agenticcoding-1207762.html)
+- 用 Apache 技术栈打造类 Palantir 的数据与 AI 平台 · [Session details](https://asia.communityovercode.org/zh/sessions/dataai-1207761.html)
+
+### 2025 · Community Over Code Asia
+
+- 使用 Apache Pulsar 构建高可靠订阅和推送服务：挑战与最佳实践 · [Session details](https://asia.communityovercode.org/2025/zh/sessions/messaging-890417.html)
+
+### 2024 · HDC
+
+- 华为云IoT构建OpenHarmony端云协同开源套件，让设备更智能 · [Event recap](https://bbs.huaweicloud.com/blogs/429803)
+
+### 2024 · Huawei Cloud DTSE Talk
+
+- 华为云IoT开源专家实践分享：开源让物联网平台更开放、易用 · [Video](https://bbs.huaweicloud.com/live/DTT_live/202405141630.html)
+
+### 2024 · 大湾区 Open Source Day
+
+- 携手开源社区：华为云IoT的参与实践与经验交流 · [Event recap](https://choss.cn/news/shownews.php?id=30)
+
+### 2021 · ApacheCon Asia
+
+- The Journey of Apache Pulsar in Huawei Cloud Internet of Things Platform · [Video](https://www.youtube.com/watch?v=2XOIj4-dibI)
+
+### 2020 · Pulsar Summit Asia
+
+- Apache Pulsar 在华为云物联网之旅：上线历程与最佳配置 · [Video](https://www.bilibili.com/video/BV1fz4y1k7a4)
