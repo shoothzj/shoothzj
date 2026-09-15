@@ -24,9 +24,12 @@ Currently, I work on intelligent data decision platforms at Huawei Cloud.
 ## Selected Projects
 
 - [ChuQin](https://github.com/hezhangjian/ChuQin) — A local-first desktop workspace for organizing personal files and working with AI agents.
+- [OpenFacade](https://github.com/openfacade) — Providing consistent APIs over different underlying libraries, so applications can switch implementations without changing their code. The [Java HTTP facade](https://github.com/openfacade/http-facade) is available now.
 - [latest-release-action](https://github.com/hezhangjian/latest-release-action) — A GitHub Action for creating releases, uploading artifacts, and maintaining a latest tag.
 - [go-mod-check-action](https://github.com/hezhangjian/go-mod-check-action) — A GitHub Action for keeping `go.mod` and `go.sum` consistent and controlling indirect dependency updates.
 - [host-available-check-action](https://github.com/hezhangjian/host-available-check-action) — A GitHub Action for checking whether a host is available.
+
+[View all projects →](https://hezhangjian.com/projects)
 
 ## Selected Posts
 
@@ -37,7 +40,9 @@ Currently, I work on intelligent data decision platforms at Huawei Cloud.
 - [提升网络协议服务器的定位能力](https://hezhangjian.com/2023/05/30/提升网络协议服务器的定位能力/)
 - [华为云物联网四年配置中心实践](https://hezhangjian.com/2021/04/14/华为云物联网四年配置中心实践/)
 
-## Selected Talks (in Chinese)
+[View all posts →](https://hezhangjian.com/blog)
+
+## Selected Presentations (in Chinese)
 
 ### 2026 · Community Over Code Asia
 
@@ -48,7 +53,7 @@ Currently, I work on intelligent data decision platforms at Huawei Cloud.
 
 - 使用 Apache Pulsar 构建高可靠订阅和推送服务：挑战与最佳实践 · [Session details](https://asia.communityovercode.org/2025/zh/sessions/messaging-890417.html)
 
-### 2024 · HDC
+### 2024 · Huawei Developer Conference
 
 - 华为云IoT构建OpenHarmony端云协同开源套件，让设备更智能 · [Event recap](https://bbs.huaweicloud.com/blogs/429803)
 
@@ -67,3 +72,5 @@ Currently, I work on intelligent data decision platforms at Huawei Cloud.
 ### 2020 · Pulsar Summit Asia
 
 - Apache Pulsar 在华为云物联网之旅：上线历程与最佳配置 · [Video](https://www.bilibili.com/video/BV1fz4y1k7a4)
+
+[View all presentations →](https://hezhangjian.com/presentations)
